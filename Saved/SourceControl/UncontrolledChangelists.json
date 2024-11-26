@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/StefanoInteractiveResume/Map/ResumeLV.umap",
+				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Materials/MasterMaterials/M_MergedBuilding.uasset",
+				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/StefanoInteractiveResume/Map/_GENERATED/makem/Stairs_514A2750.uasset",
+				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/StefanoInteractiveResume/Map/_GENERATED/makem/Stairs_F5121CE6.uasset",
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Blueprints/TestPlayer/Animations/FirstPersonAnims/AS_1f_Jump.uasset",
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Blueprints/TestPlayer/Animations/FirstPersonAnims/AS_1f_Jump_Loop.uasset",
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Blueprints/TestPlayer/BP_TestPlayerGameMode.uasset",
@@ -113,15 +117,12 @@
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Blueprints/Environment/Doors/Parent/BP_P_Door.uasset",
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Blueprints/Furniture/Parent/BI_LevelObjectInteraction.uasset",
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Blueprints/Building/Parent/F_Door_Data.uasset",
-				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/StefanoInteractiveResume/Map/ResumeLV.umap",
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Maps/ExampleMap.umap",
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Maps/ExampleMap_LightingUE5.umap",
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Maps/Showcase.umap",
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Maps/ExampleMap_BuiltData.uasset",
 				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Maps/ExampleMap_LightingUE5_BuiltData.uasset",
-				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Maps/Showcase_BuiltData.uasset",
-				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Materials/MasterMaterials/M_MergedBuilding.uasset",
-				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/StefanoInteractiveResume/Map/_GENERATED/makem/Stairs_514A2750.uasset"
+				"C:/Users/makem/Documents/GitHub/StefanoResume/Content/BrutalistLevelKit/Maps/Showcase_BuiltData.uasset"
 			]
 		}
 	]
